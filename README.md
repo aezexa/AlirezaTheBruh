@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my 5th semester.
+- 🌱 I’m currently learning Angular.
+- 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
+- 💬 Ask me about everything. I like questions.
+- 📫 How to reach me: [My Gmail](mailto:thealexlucian@gmail.com), [My Telegram](https://t.me/FekKonamAlirezaBezarCheckKonam)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If you're curious about the duck's speed in my profile picture, [here](https://www.reddit.com/r/theydidthemath/comments/l5yjah/comment/gkycr68/?utm_source=share&utm_medium=web2x&context=3)'s the calculations.
 
 <!--
 **AlirezaTheBruh/AlirezaTheBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
