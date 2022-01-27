@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my 5th semester.
+- 🔭 I’m currently working on my 6th semester.
 - 🌱 I’m currently learning Angular.
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
 - 💬 Ask me about everything. I like questions.
